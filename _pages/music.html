@@ -7,8 +7,72 @@ author_profile: true
 
 {% include base_path %}
 
-<p>A selection of scores and compositions. Click any item to view the score PDF.</p>
+<p class="music-intro">A reverse-chronological selection of compositions and scores. Click any piece to expand.</p>
 
-{% for post in site.music %}
-  {% include archive-single.html %}
+<div class="music-list">
+{% assign music_sorted = site.music | sort: 'date' | reverse %}
+{% for post in music_sorted %}
+  <details class="music-item">
+    <summary>
+      <span class="music-title">{{ post.title }}</span>
+      <span class="music-meta">
+        {{ post.date | date: '%Y' }}{% if post.context %} · {{ post.context }}{% endif %}
+      </span>
+      {% if post.excerpt %}<span class="music-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% endif %}
+    </summary>
+    <div class="music-body">
+      {{ post.content }}
+    </div>
+  </details>
 {% endfor %}
+</div>
+
+<style>
+.music-intro { color: #666; margin-bottom: 1.5em; }
+.music-list .music-item {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 1.1em 0;
+}
+.music-list .music-item:first-of-type { border-top: 1px solid #e5e5e5; }
+.music-list summary {
+  cursor: pointer;
+  list-style: none;
+  display: block;
+}
+.music-list summary::-webkit-details-marker { display: none; }
+.music-list summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.55em;
+  transition: transform 0.15s ease;
+  color: #888;
+}
+.music-list details[open] > summary::before {
+  transform: rotate(90deg);
+}
+.music-list .music-title {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 1.15em;
+  letter-spacing: 0.005em;
+}
+.music-list .music-meta {
+  display: block;
+  margin: 0.35em 0 0.35em 1.4em;
+  font-size: 0.9em;
+  color: #555;
+}
+.music-list .music-excerpt {
+  display: block;
+  margin: 0.25em 0 0 1.4em;
+  color: #444;
+}
+.music-list .music-body {
+  margin: 0.8em 0 0.4em 1.4em;
+  padding-left: 0.8em;
+  border-left: 2px solid #eee;
+  color: #333;
+}
+.music-list .music-body p:first-child { margin-top: 0; }
+.music-list .music-body p:last-child { margin-bottom: 0; }
+</style>
