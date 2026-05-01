@@ -24,6 +24,6 @@ Earlier, I was Product Manager at [DAACI](https://daaci.com), the meta-compositi
 
 I started in audio AI as a Research Engineer at AI Music, later [acquired by Apple](https://www.deeplearning.ai/the-batch/remix-master/), where I built systems for music tagging, preference-optimised generation, and vocal reverb estimation. Before audio, I worked the trading floor as a Trading Analyst at Goldman Sachs in credit derivatives, and earlier as a quantitative intern at Citigroup building Monte Carlo pricing models for exotic equity derivatives.
 
-I hold a BEng in Electrical and Electronic Engineering (First Class with prize) from Imperial College London. My thesis on multi-task CNNs for violin melody extraction was [submitted to ISMIR 2019](/publication/2019-multitask-cnns-violin-melody). I also hold a CertHE in Music and Sound Recording from the University of Surrey, and a DipABRSM in Violin Performance.
+I hold a BEng in Electrical and Electronic Engineering (First Class with prize) from Imperial College London. My thesis on multi-task CNNs for violin melody extraction was [submitted to ISMIR 2019](/files/multitask_CNNs_melodyextraction.pdf). I also hold a CertHE in Music and Sound Recording from the University of Surrey, and a DipABRSM in Violin Performance.
 
 A copy of my [CV (PDF)](/files/cv.pdf) is available for download. I'd love to hear from you, drop a line at [dfongbusiness@gmail.com](mailto:dfongbusiness@gmail.com), or say hi on [LinkedIn](https://www.linkedin.com/in/davidwengweifong/) and [X](https://x.com/davstave).

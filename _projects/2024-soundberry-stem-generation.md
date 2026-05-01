@@ -13,6 +13,6 @@ On the model side I worked on diffusion-based audio-to-audio architectures with 
 
 On the systems side I built the API-based inference pipeline for serving and batch generation. On the GTM side I ran design partner integrations to define pilots, secure IP-compliant data, and find signal on product–market fit.
 
-**Role:** Founder (Audio GenAI). Backed by CDP Venture Capital.
+**Role:** Founder · Head of Product
 
 **Stack:** PyTorch, Diffusers, CLAP, FastAPI, Docker, AWS/GCP.

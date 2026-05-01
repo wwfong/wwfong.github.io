@@ -11,6 +11,6 @@ BrainRap is an interactive AI rap experience built on a fine-tuned GPT-2 model t
 
 Read the [Abbey Road incubation announcement](https://www.abbeyroad.com/news/abbey-road-red-announces-brainrap-as-the-newest-start-up-to-join-its-incubation-programme-3066).
 
-**Role:** Incubation lead.
+**Role:** Program Manager.
 
 **Themes:** generative language models, GPT-2, real-time creative AI, music industry partnerships.

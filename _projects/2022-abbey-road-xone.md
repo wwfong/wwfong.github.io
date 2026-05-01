@@ -11,6 +11,6 @@ XONE is a metaverse platform for music experiences. We accepted them into Abbey 
 
 Read the [Abbey Road incubation announcement](https://www.abbeyroad.com/news/abbey-road-red-announces-metaverse-platform-xone-as-its-newest-start-up-3216).
 
-**Role:** Incubation lead.
+**Role:** Program Manager.
 
 **Themes:** metaverse, virtual concerts, music experiences, music industry partnerships.
