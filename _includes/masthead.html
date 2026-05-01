@@ -14,7 +14,13 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item {% if (link.url == '/' and (page.url == '/' or page.url == '/index.html')) or (page.url contains link.url and link.url != '/') %}selected{% endif %}">
+            {% assign is_selected = false %}
+            {% if link.url == '/' %}
+              {% if page.url == '/' or page.url == '/index.html' %}{% assign is_selected = true %}{% endif %}
+            {% else %}
+              {% if page.url contains link.url %}{% assign is_selected = true %}{% endif %}
+            {% endif %}
+            <li class="masthead__menu-item {% if is_selected %}selected{% endif %}">
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
