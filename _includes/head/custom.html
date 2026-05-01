@@ -2,6 +2,14 @@
 
 <!-- start custom head snippets -->
 
+<!-- Force light mode site-wide; overrides OS dark preference and any saved toggle -->
+<script>
+  (function () {
+    try { localStorage.setItem("theme", "light"); } catch (e) {}
+    document.documentElement.removeAttribute("data-theme");
+  })();
+</script>
+
 <!-- Google Fonts: Jost (slim geometric sans) + Geist Mono (for code) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
