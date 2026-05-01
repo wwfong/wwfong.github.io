@@ -13,6 +13,8 @@ The audio features I shepherded into the live app were a mixer panel for per-tra
 
 Most of the interesting work was at the seams: getting decent latency and signal quality out of a mobile audio stack that wasn't built for tracking, and exposing the right surface of controls to creators who don't think in audio-engineering terms.
 
+The launch of these features was [announced on the Abbey Road blog](https://www.abbeyroad.com/news/topline-app-releases-new-features-for-artists-songwriters-2797).
+
 **Role:** Program Manager (Audio Tech).
 
 **Themes:** mobile audio, convolution reverb, mono-to-stereo, songwriter tooling.
