@@ -2,8 +2,8 @@
 title: "Diligence on a Real-Time Audio Streaming Acquisition"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
-daterange: "2022"
-date: 2022-04-01
+daterange: "2020 – 2021"
+date: 2021-06-01
 excerpt: "Led technical and commercial due diligence on Universal Music's acquisition of Audiomovers, the real-time audio collaboration platform behind Listento."
 ---
 

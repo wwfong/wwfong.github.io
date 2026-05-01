@@ -2,7 +2,7 @@
 title: "Generative Drums via Meta-Composition"
 collection: projects
 organisation: "DAACI (C4DM spinout, QMUL)"
-daterange: "August 2022 – February 2024"
+daterange: "2022 – 2024"
 date: 2022-08-01
 excerpt: "Generative drum copilot for DAW workflows, built on meta-composition research from the Centre for Digital Music."
 ---

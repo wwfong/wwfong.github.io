@@ -2,7 +2,7 @@
 title: "Studio-Grade Audio Controls in a Mobile Songwriting App"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
-daterange: "February 2020 – August 2022"
+daterange: "2020 – 2021"
 date: 2020-02-01
 excerpt: "Owned product for Topline, Abbey Road's mobile songwriting app, giving songwriters higher controllability over their audio: mixer panel, convolution reverb with switchable IRs, mono-to-stereo, and Bluetooth audio I/O."
 ---

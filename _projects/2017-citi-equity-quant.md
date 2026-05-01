@@ -2,7 +2,7 @@
 title: "Monte Carlo Pricing Models for Exotic Equity Derivatives"
 collection: projects
 organisation: "Citigroup · Equity Quant"
-daterange: "Internship"
+daterange: "2017"
 date: 2017-06-01
 excerpt: "Designed two Monte Carlo simulation pricing models for exotic equity derivatives in Citigroup's Equity Quant team."
 ---

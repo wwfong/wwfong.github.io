@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint"
-title                    : "David W. Fong"
+title                    : "David Fong"
 title_separator          : "-"
 name                     : &name "David W. Fong"
 description              : &description "Builder in audio and creator tools. Speech and audio AI, generative models, reasoning systems."

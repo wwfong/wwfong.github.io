@@ -2,8 +2,8 @@
 title: "Vocal Reverb Detection with CNNs on Mel Spectrograms"
 collection: projects
 organisation: "AI Music (acquired by Apple)"
-daterange: "2019"
-date: 2019-03-01
+daterange: "2018"
+date: 2018-04-01
 excerpt: "CNN over Mel spectrograms estimating reverberation parameters from vocal recordings, alongside a general spectral feature extractor."
 ---
 

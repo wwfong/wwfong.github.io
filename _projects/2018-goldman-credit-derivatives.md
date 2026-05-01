@@ -2,7 +2,7 @@
 title: "Default Probability Modelling on a Credit Derivatives Desk"
 collection: projects
 organisation: "Goldman Sachs · Credit Derivatives"
-daterange: "July 2018 – January 2019"
+daterange: "2018 – 2019"
 date: 2018-07-01
 excerpt: "Trading Analyst on the credit derivatives desk: estimated default probabilities to price and execute trades across 150+ names, with $100M+ in daily traded volume."
 ---

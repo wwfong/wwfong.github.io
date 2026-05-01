@@ -8,7 +8,7 @@ redirect_from:
   - /home/
 ---
 
-Welcome, and thanks for stopping by! I'm a builder in audio and creator tools, based in Paris, with five-plus years building user-facing audio AI systems across product and engineering roles.
+Welcome, and thanks for stopping by!
 
 I'm currently focused on:
 

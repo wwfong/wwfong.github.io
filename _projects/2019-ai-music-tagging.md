@@ -2,7 +2,7 @@
 title: "Automatic Music Tagging with CRNNs"
 collection: projects
 organisation: "AI Music (acquired by Apple)"
-daterange: "January 2019 – September 2019"
+daterange: "2019"
 date: 2019-09-01
 excerpt: "CRNN model over STFT inputs assigning descriptive tags (genre, mood, instrumentation) to tracks at scale, exposed via REST API."
 ---
