@@ -12,4 +12,5 @@ I built a music generation system that produced candidate musical material and t
 The work covered the search procedure itself, the heuristic objective functions, and the evaluation harness used to compare candidate generations against listener preferences.
 
 **Role:** Research Engineer (Audio).
+
 **Stack:** Python, genetic algorithms, music-theoretic heuristics.

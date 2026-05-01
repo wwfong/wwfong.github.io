@@ -18,4 +18,5 @@ TODO: David — paste links to the published posts here. Format suggestion:
 -->
 
 **Role:** Author / contributor.
+
 **Themes:** audio technology, AI in music, music tech trends, editorial.

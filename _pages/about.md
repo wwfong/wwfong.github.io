@@ -8,13 +8,15 @@ redirect_from:
   - /home/
 ---
 
-Welcome! I'm a builder in audio and creator tools, based in Paris and very glad you stopped by. I'm currently founder at [Orphere](https://orphere.com), where I'm building an LLM-driven symbolic reasoning engine that gives music theory-aware guidance inside an interactive application. Alongside Orphere I'm pursuing an M1 in Artificial Intelligence and Society at PSL Research University (ENS / Dauphine).
+Welcome, and thanks for stopping by! I'm a builder in audio and creator tools, based in Paris, with five-plus years building user-facing audio AI systems across product and engineering roles.
 
 I'm currently focused on:
 
 1. Solving speech and audio inverse tasks with deep generative models.
 2. Making audio AI systems work in the real world.
 3. Enhancing the creativity and reliability of reasoning systems in specialised domains.
+
+Today I'm founder at [Orphere](https://orphere.com), where I'm building an LLM-driven symbolic reasoning engine that gives music theory-aware guidance inside an interactive application. Alongside Orphere I'm pursuing an M1 in Artificial Intelligence and Society at PSL Research University (ENS / Dauphine).
 
 Before Orphere, I founded [SoundBerry](https://soundberry.ai), a B2C generative music product backed by CDP Venture Capital, where I designed diffusion-based audio-to-audio models with CLAP-based conditioning and trained 5B+ parameter models on multi-TB datasets.
 

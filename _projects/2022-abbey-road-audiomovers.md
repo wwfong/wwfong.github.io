@@ -12,4 +12,5 @@ I led due diligence on Universal Music's acquisition of [Audiomovers](https://au
 Read the [Abbey Road acquisition announcement](https://www.abbeyroad.com/news/abbey-road-studios-acquires-audiomovers-enhancing-the-global-shift-to-remote-music-production-2939).
 
 **Role:** Due diligence lead.
+
 **Themes:** audio M&amp;A, real-time audio, remote production.

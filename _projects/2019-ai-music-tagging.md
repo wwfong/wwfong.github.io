@@ -12,4 +12,5 @@ I built an automatic music tagging system to assign descriptive tags (genre, moo
 I owned the pipeline end-to-end: dataset curation and labelling, model training and evaluation, and a REST API surface so the rest of the company could call the model from production services.
 
 **Role:** Research Engineer (Audio).
+
 **Stack:** Python, Keras, Librosa, CRNN, REST API.

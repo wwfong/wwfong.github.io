@@ -12,4 +12,5 @@ I built a vocal reverb detection system that infers reverberation characteristic
 Read the write-up: [Building a Reverb Detection System Using Machine Learning](https://medium.com/data-science/building-a-reverb-detection-system-using-machine-learning-cba02a1710bf).
 
 **Role:** Research Engineer (Audio).
+
 **Stack:** Python, Keras, Librosa, Mel spectrograms, CNN.

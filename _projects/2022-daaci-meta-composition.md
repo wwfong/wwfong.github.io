@@ -12,4 +12,5 @@ DAACI is a meta-composition company spun out of the Centre for Digital Music at 
 The flagship product I shepherded end-to-end was [Natural Drums](https://daaci.com/natural-drums/), an AI generative drum copilot for DAW-based workflows. I orchestrated the full development lifecycle, owned creation of system documentation derived from the research prototypes, and co-authored key patent filings around the underlying meta-composition techniques.
 
 **Role:** Product Manager (Meta-Composition).
+
 **Themes:** generative drums, DAW integration, meta-composition, research-to-product, IP and patents.

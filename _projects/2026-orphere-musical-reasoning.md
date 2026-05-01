@@ -12,4 +12,5 @@ I'm building an LLM-driven symbolic reasoning engine that gives music theory-awa
 The work spans agent design, prompt and tool design for music-theoretic operations, evaluation harnesses for reasoning quality, and end-to-end product engineering of the interactive surface that surfaces the agent's outputs.
 
 **Role:** Product Engineer · Founder.
+
 **Themes:** agentic systems, symbolic music, music theory, reasoning, creator tools.

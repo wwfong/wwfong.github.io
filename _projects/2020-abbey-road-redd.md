@@ -12,4 +12,5 @@ I managed product for [Topline](https://www.abbeyroad.com/apps), Abbey Road's mo
 I owned product specification, coordination across DSP and mobile engineering, and the rollout cadence into the live app.
 
 **Role:** Program Manager (Audio Tech).
+
 **Themes:** mobile audio, DSP feature delivery, songwriter tooling.
