@@ -1,8 +1,8 @@
 # The following is the order of the links in the header of the website.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /
 
   - title: "Projects"
     url: /projects/
@@ -14,4 +14,4 @@ main:
     url: /year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
