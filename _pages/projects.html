@@ -10,6 +10,72 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
+<p class="projects-intro">A reverse-chronological list of things I've built. Click a project to expand.</p>
+
+<div class="projects-list">
+{% for post in site.projects reversed %}
+  <details class="project-item">
+    <summary>
+      <span class="project-title">{{ post.title }}</span>
+      <span class="project-meta">
+        {% if post.organisation %}<strong>{{ post.organisation }}</strong>{% endif %}
+        {% if post.organisation and post.daterange %} · {% endif %}
+        {% if post.daterange %}{{ post.daterange }}{% endif %}
+      </span>
+      {% if post.excerpt %}<span class="project-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span>{% endif %}
+    </summary>
+    <div class="project-body">
+      {{ post.content }}
+    </div>
+  </details>
 {% endfor %}
+</div>
+
+<style>
+.projects-intro { color: #666; margin-bottom: 1.5em; }
+.projects-list .project-item {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 1.1em 0;
+}
+.projects-list .project-item:first-of-type { border-top: 1px solid #e5e5e5; }
+.projects-list summary {
+  cursor: pointer;
+  list-style: none;
+  display: block;
+}
+.projects-list summary::-webkit-details-marker { display: none; }
+.projects-list summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.55em;
+  transition: transform 0.15s ease;
+  color: #888;
+}
+.projects-list details[open] > summary::before {
+  transform: rotate(90deg);
+}
+.projects-list .project-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.15em;
+}
+.projects-list .project-meta {
+  display: block;
+  margin: 0.35em 0 0.35em 1.4em;
+  font-size: 0.9em;
+  color: #555;
+}
+.projects-list .project-excerpt {
+  display: block;
+  margin: 0.25em 0 0 1.4em;
+  color: #444;
+}
+.projects-list .project-body {
+  margin: 0.8em 0 0.4em 1.4em;
+  padding-left: 0.8em;
+  border-left: 2px solid #eee;
+  color: #333;
+}
+.projects-list .project-body p:first-child { margin-top: 0; }
+.projects-list .project-body p:last-child { margin-bottom: 0; }
+</style>

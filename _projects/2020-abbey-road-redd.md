@@ -1,16 +1,15 @@
 ---
-title: "Abbey Road REDD — Recording App Audio Features"
-excerpt: "Delivered mixer, reverb, mono-to-stereo, and Bluetooth features for a Universal Music recording app, boosting engagement; advised on M&amp;A and startup acceleration in the audio space."
+title: "Topline — Recording App at Abbey Road"
 collection: projects
+organisation: "Universal Music · Abbey Road REDD"
+daterange: "February 2020 – August 2022"
 date: 2020-02-01
+excerpt: "Delivered mixer, reverb, mono-to-stereo, and Bluetooth features for a Universal Music recording app, materially boosting engagement."
 ---
 
-**Role:** Program Manager (Audio Tech)
-**Period:** February 2020 – August 2022
-**Organisation:** Universal Music · [Abbey Road REDD](https://abbeyroad.com/)
+As part of Abbey Road REDD's audio innovation arm at Universal Music, I led delivery of audio features for a recording app aimed at songwriters and producers. The work spanned mixer, reverb, mono-to-stereo, and Bluetooth I/O, all of which contributed to measurable lifts in engagement.
 
-- Delivered mixer, reverb, mono-to-stereo, and Bluetooth features for a recording app, boosting engagement.
-- Supported M&amp;A and investment due diligence; advised executives on positioning within the audio space.
-- Accelerated AI and XR startups towards product, GTM, rights acquisition, and partnership milestones.
+I owned product specification, coordination across DSP and mobile engineering, and the rollout cadence into the live app.
 
-**Themes:** mobile audio, DSP feature delivery, audio M&amp;A, startup acceleration.
+**Role:** Program Manager (Audio Tech).
+**Themes:** mobile audio, DSP feature delivery, songwriter tooling.
