@@ -20,7 +20,9 @@ Today I'm founder at [Orphere](https://orphere.com), where I'm building an LLM-d
 
 Before Orphere, I founded [SoundBerry](https://soundberry.ai), a B2C generative music product backed by CDP Venture Capital, where I built an audio GenAI layer supporting music creation workflows.
 
-Earlier, I was Product Manager at [DAACI](https://daaci.com), the meta-composition spinout from the Centre for Digital Music at Queen Mary University of London, where I translated generative music AI research prototypes into commercial products and solutions. Before that, I was Program Manager (Audio Tech) at Abbey Road REDD (Universal Music), where I owned product for the Topline songwriting app, supported the [Audiomovers acquisition](https://www.abbeyroad.com/news/abbey-road-studios-acquires-audiomovers-enhancing-the-global-shift-to-remote-music-production-2939), and incubated startups including BrainRap.
+Earlier, I was Product Manager at [DAACI](https://daaci.com), the meta-composition spinout from the Centre for Digital Music at Queen Mary University of London, where I translated generative music AI research prototypes into commercial products and solutions.
+
+Before that, I worked at [Abbey Road REDD](https://www.abbeyroad.com/the-incubator) (Universal Music), where I owned product for the Topline songwriting app, supported the [Audiomovers acquisition](https://www.abbeyroad.com/news/abbey-road-studios-acquires-audiomovers-enhancing-the-global-shift-to-remote-music-production-2939), and incubated startups including BrainRap.
 
 I started in audio AI as a Research Engineer at AI Music, later [acquired by Apple](https://www.deeplearning.ai/the-batch/remix-master/), where I built systems for music tagging, preference-optimised generation, and vocal reverb estimation.
 
