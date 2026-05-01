@@ -1,5 +1,5 @@
 ---
-title: "Incubating Real-Time AI Rap Performance"
+title: "Incubating a Real-Time AI Rap Performance Tool"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
 daterange: "2021 – 2022"

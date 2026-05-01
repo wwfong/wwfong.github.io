@@ -1,5 +1,5 @@
 ---
-title: "Default Probability Modelling on a Credit Derivatives Desk"
+title: "Default Probability Modelling on European Credits"
 collection: projects
 organisation: "Goldman Sachs · Credit Derivatives"
 daterange: "2018 – 2019"

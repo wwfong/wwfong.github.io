@@ -1,5 +1,5 @@
 ---
-title: "Vocal Reverb Detection with CNNs on Mel Spectrograms"
+title: "Vocal Reverb Detection with CNNs"
 collection: projects
 organisation: "AI Music (acquired by Apple)"
 daterange: "2018"

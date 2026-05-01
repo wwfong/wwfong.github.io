@@ -13,7 +13,8 @@ redirect_from:
 <p class="projects-intro">A reverse-chronological list of things I've worked on. Click a project to expand.</p>
 
 <div class="projects-list">
-{% for post in site.projects reversed %}
+{% assign projects_sorted = site.projects | sort: 'date' | reverse %}
+{% for post in projects_sorted %}
   <details class="project-item">
     <summary>
       <span class="project-title">{{ post.title }}</span>
