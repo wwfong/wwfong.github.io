@@ -10,6 +10,18 @@
   })();
 </script>
 
+<!-- External links open in a new tab (so visitors don't navigate away from the site) -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a[href]").forEach(function (a) {
+      if (a.host && a.host !== window.location.host) {
+        a.target = "_blank";
+        a.rel = (a.rel ? a.rel + " " : "") + "noopener noreferrer";
+      }
+    });
+  });
+</script>
+
 <!-- Google Fonts: Jost (slim geometric sans) + Geist Mono (for code) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
