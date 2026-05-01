@@ -1,15 +1,15 @@
 ---
-title: "BrainRap Incubation at Abbey Road"
+title: "BrainRap Incubation at Abbey Road REDD"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
 daterange: "2021 – 2022"
 date: 2021-06-01
-excerpt: "Incubated BrainRap, an audio/AI startup, through Abbey Road REDD's accelerator — supporting product, GTM, rights, and partnership milestones."
+excerpt: "Helped incubate and accelerate BrainRap, an interactive AI rap experience generating real-time lyrics with a fine-tuned GPT-2 model."
 ---
 
-I led Abbey Road REDD's incubation of BrainRap, working with the founders on product direction, go-to-market, rights and licensing strategy, and partnership development. The work involved bridging music industry stakeholders with the founders' technical roadmap and unblocking commercial milestones inside the Universal Music ecosystem.
+BrainRap was an interactive AI rap experience built on a fine-tuned GPT-2 model that generated rap lyrics in real time, performed live to audiences. We accepted them into Abbey Road REDD's incubation programme and I worked with the founders on product direction, performance and technical guidance, partnership development, and commercial milestones.
 
-<!-- TODO: David — fill in specifics about what BrainRap is and the headline outcomes you want to highlight. -->
+Read the [Abbey Road incubation announcement](https://www.abbeyroad.com/news/abbey-road-red-announces-brainrap-as-the-newest-start-up-to-join-its-incubation-programme-3066).
 
 **Role:** Incubation lead.
-**Themes:** startup acceleration, audio/AI, music industry partnerships.
+**Themes:** generative language models, GPT-2, real-time creative AI, music industry partnerships.

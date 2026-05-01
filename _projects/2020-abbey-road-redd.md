@@ -1,13 +1,13 @@
 ---
-title: "Topline — Recording App at Abbey Road"
+title: "Topline — Songwriting App at Abbey Road"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
 daterange: "February 2020 – August 2022"
 date: 2020-02-01
-excerpt: "Delivered mixer, reverb, mono-to-stereo, and Bluetooth features for a Universal Music recording app, materially boosting engagement."
+excerpt: "Managed product for Topline, Abbey Road's songwriting app. Delivered mixer, reverb, mono-to-stereo, and Bluetooth features that materially boosted engagement."
 ---
 
-As part of Abbey Road REDD's audio innovation arm at Universal Music, I led delivery of audio features for a recording app aimed at songwriters and producers. The work spanned mixer, reverb, mono-to-stereo, and Bluetooth I/O, all of which contributed to measurable lifts in engagement.
+I managed product for [Topline](https://www.abbeyroad.com/apps), Abbey Road's mobile songwriting app. The work covered roadmap, specification, and rollout of audio features used directly inside artists' creative workflows: a mobile mixer, a reverb chain, a mono-to-stereo widener, and Bluetooth I/O for working with external mics and headphones. Each shipped feature contributed to measurable lifts in engagement and retention.
 
 I owned product specification, coordination across DSP and mobile engineering, and the rollout cadence into the live app.
 
