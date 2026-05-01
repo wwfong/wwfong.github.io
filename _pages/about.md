@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome, and thanks for stopping by!
 
+I work at the intersection of audio AI, generative models, and music creation, with a focus on the parts where research meets real-world creative tools. The problems I find most interesting are about closing the gap between powerful AI systems and the people who actually want to use them.
+
 I'm currently focused on:
 
 1. Solving speech and audio inverse tasks with deep generative models.

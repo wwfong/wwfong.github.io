@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "mint"
 title                    : "David Fong"
 title_separator          : "-"
-name                     : &name "David W. Fong"
+name                     : &name "David Fong"
 description              : &description "Builder in audio and creator tools. Speech and audio AI, generative models, reasoning systems."
 url                      : https://wwfong.github.io
 baseurl                  : ""
@@ -23,7 +23,7 @@ repository               : "wwfong/wwfong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "David W. Fong"
+  name             : "David Fong"
   pronouns         :
   bio              : "Builder in Audio &amp; Creator Tools. 5+ years building user-facing audio AI systems across product and engineering roles."
   location         : "Paris, France"
