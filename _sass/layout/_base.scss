@@ -10,12 +10,9 @@ body {
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-
   margin: 0;
-  padding: $masthead-height 0 0;
+  /* top: room for fixed masthead; bottom: room for fixed footer */
+  padding: $masthead-height 0 2.4em;
   font-family: $global-font-family;
   line-height: 1.5;
 
