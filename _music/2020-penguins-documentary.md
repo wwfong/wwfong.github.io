@@ -8,4 +8,4 @@ excerpt: "Original music I composed for a short documentary clip on penguins."
 
 Original music I composed for a short documentary clip on penguins.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/nK-lFWg6-Bc" title="Penguins documentary clip, music by David W. Fong" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="lite-yt" data-id="nK-lFWg6-Bc" role="button" aria-label="Play video"><img src="https://i.ytimg.com/vi/nK-lFWg6-Bc/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/nK-lFWg6-Bc/hqdefault.jpg'"><span class="lite-yt-play" aria-hidden="true">▶</span></div>

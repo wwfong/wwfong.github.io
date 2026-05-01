@@ -8,4 +8,4 @@ excerpt: "Original score I composed for Oceans, a short documentary."
 
 Original score I composed for *Oceans*, a short documentary.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/i5zGUYy7BhY" title="Oceans documentary clip, music by David W. Fong" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="lite-yt" data-id="i5zGUYy7BhY" role="button" aria-label="Play video"><img src="https://i.ytimg.com/vi/i5zGUYy7BhY/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/i5zGUYy7BhY/hqdefault.jpg'"><span class="lite-yt-play" aria-hidden="true">▶</span></div>

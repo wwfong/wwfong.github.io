@@ -8,4 +8,4 @@ excerpt: "Composed original music for Arcas Champions, including the cinematic t
 
 I composed original music for Arcas Champions, including the cinematic trailer below.
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/axoV3YVvNOM" title="Arcas Champions cinematic trailer, music by David W. Fong" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="lite-yt" data-id="axoV3YVvNOM" role="button" aria-label="Play video"><img src="https://i.ytimg.com/vi/axoV3YVvNOM/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/axoV3YVvNOM/hqdefault.jpg'"><span class="lite-yt-play" aria-hidden="true">▶</span></div>

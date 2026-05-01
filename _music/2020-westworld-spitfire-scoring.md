@@ -8,4 +8,4 @@ excerpt: "A composition I wrote for the Westworld &amp; Spitfire Audio scoring c
 
 I wrote a composition for the Westworld &amp; Spitfire Audio scoring competition during my time at Abbey Road REDD. Read Abbey Road's write-up: [Abbey Road RED's David Fong: Composition for Spitfire Audio and Westworld's Scoring Competition](https://www.abbeyroad.com/news/abbey-road-reds-david-fong-composition-for-spitfire-audio-and-westworlds-scoring-competition-2781).
 
-<div class="video-embed"><iframe src="https://www.youtube.com/embed/EgXPT_UZ9WY" title="Composition for the Westworld and Spitfire Audio Scoring Competition, by David W. Fong" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="lite-yt" data-id="EgXPT_UZ9WY" role="button" aria-label="Play video"><img src="https://i.ytimg.com/vi/EgXPT_UZ9WY/maxresdefault.jpg" alt="" loading="lazy" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/EgXPT_UZ9WY/hqdefault.jpg'"><span class="lite-yt-play" aria-hidden="true">▶</span></div>

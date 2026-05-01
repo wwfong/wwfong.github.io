@@ -1,5 +1,5 @@
 ---
-title: "Stem-Level Generative Music with Diffusion"
+title: "Stem-Level Generative Copilot with Diffusion Transformers"
 collection: projects
 organisation: "SoundBerry (CDP Venture Capital)"
 daterange: "2024 – 2025"

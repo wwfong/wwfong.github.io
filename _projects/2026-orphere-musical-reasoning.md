@@ -1,5 +1,5 @@
 ---
-title: "Musical Reasoning Agents"
+title: "Musical Reasoning Agents Starting From Harmony"
 collection: projects
 organisation: "Orphere"
 daterange: "2026 – Present"
