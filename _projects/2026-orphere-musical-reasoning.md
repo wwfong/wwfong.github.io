@@ -4,12 +4,12 @@ collection: projects
 organisation: "Orphere"
 daterange: "January 2026 – Present"
 date: 2026-01-01
-excerpt: "An LLM-driven symbolic reasoning engine for music theory-aware guidance inside an interactive application."
+excerpt: "Pairing LLMs with symbolic music representations to give theory-aware guidance inside an interactive application."
 ---
 
-I'm building an LLM-driven symbolic reasoning engine that gives music theory-aware guidance inside an interactive application. The system blends symbolic music representations with language-model reasoning so that suggestions remain musically coherent rather than purely statistical, with the goal of making generative tools that experienced musicians can trust.
+I'm building a reasoning system that pairs LLMs with symbolic music representations (chord and voice-leading abstractions, score-level structure) to provide theory-aware guidance inside an interactive application. The thesis: LLMs alone don't reason reliably about music theory, but they're a useful planning layer when paired with symbolic operators that enforce musical constraints.
 
-The work spans agent design, prompt and tool design for music-theoretic operations, evaluation harnesses for reasoning quality, and end-to-end product engineering of the interactive surface that surfaces the agent's outputs.
+Day-to-day, the work spans the agent loop, the symbolic toolset the agent calls, evaluation harnesses for reasoning quality, and the interactive product around it.
 
 **Role:** Product Engineer · Founder.
 

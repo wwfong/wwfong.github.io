@@ -1,13 +1,13 @@
 ---
-title: "BrainRap Incubation at Abbey Road REDD"
+title: "Incubating Real-Time AI Rap Performance"
 collection: projects
 organisation: "Universal Music · Abbey Road REDD"
 daterange: "2021 – 2022"
 date: 2021-06-01
-excerpt: "Helped incubate and accelerate BrainRap, an interactive AI rap experience generating real-time lyrics with a fine-tuned GPT-2 model."
+excerpt: "Incubated BrainRap, an interactive AI rap experience generating real-time lyrics with a fine-tuned GPT-2 model, performed live."
 ---
 
-BrainRap was an interactive AI rap experience built on a fine-tuned GPT-2 model that generated rap lyrics in real time, performed live to audiences. We accepted them into Abbey Road REDD's incubation programme and I worked with the founders on product direction, performance and technical guidance, partnership development, and commercial milestones.
+BrainRap is an interactive AI rap experience built on a fine-tuned GPT-2 model that generates rap lyrics in real time, performed live to audiences. We accepted them into Abbey Road REDD's incubation programme, and I worked with the founders on product direction, technical guidance around the model and the live performance setup, partnership development inside the music industry, and the commercial milestones that mattered for their next stage.
 
 Read the [Abbey Road incubation announcement](https://www.abbeyroad.com/news/abbey-road-red-announces-brainrap-as-the-newest-start-up-to-join-its-incubation-programme-3066).
 

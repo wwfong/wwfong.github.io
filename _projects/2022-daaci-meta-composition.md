@@ -1,15 +1,15 @@
 ---
-title: "Natural Drums &amp; Meta-Composition at DAACI"
+title: "Generative Drums via Meta-Composition"
 collection: projects
 organisation: "DAACI (C4DM spinout, QMUL)"
 daterange: "August 2022 – February 2024"
 date: 2022-08-01
-excerpt: "Translated meta-composition research into shipped products for gaming, library music, and film/TV, and led the full lifecycle of an AI generative drum copilot for DAW workflows."
+excerpt: "Generative drum copilot for DAW workflows, built on meta-composition research from the Centre for Digital Music."
 ---
 
-DAACI is a meta-composition company spun out of the Centre for Digital Music at Queen Mary University of London. As Product Manager I owned the bridge between research and product, scoping requirements, and translating research prototypes into solutions targeted at gaming, library music, and film/TV use cases.
+DAACI is a meta-composition spinout from the Centre for Digital Music at Queen Mary University of London. Meta-composition here refers to representing musical material at a level of abstraction above the notes themselves: structural building blocks such as gestures, phrases, and rhythmic templates that can be parameterised and recombined.
 
-The flagship product I shepherded end-to-end was [Natural Drums](https://daaci.com/natural-drums/), an AI generative drum copilot for DAW-based workflows. I orchestrated the full development lifecycle, owned creation of system documentation derived from the research prototypes, and co-authored key patent filings around the underlying meta-composition techniques.
+The flagship product I owned end-to-end was [Natural Drums](https://daaci.com/natural-drums/), a generative drum copilot for DAW workflows. I scoped requirements, translated research prototypes into shippable systems, owned system documentation derived from those prototypes, and co-authored patent filings around the underlying meta-composition techniques.
 
 **Role:** Product Manager (Meta-Composition).
 
