@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Music"
+permalink: /music/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>A selection of scores and compositions. Click any item to view the score PDF.</p>
+
+{% for post in site.music %}
+  {% include archive-single.html %}
+{% endfor %}
