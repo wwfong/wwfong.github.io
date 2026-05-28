@@ -7,7 +7,7 @@ date: 2021-01-01
 excerpt: "Editorial pieces, RED Talks, annual forecasts, monthly briefings, and live tech showcases. Knowledge sharing aimed at both the broader music tech industry and Universal Music's leadership."
 ---
 
-A meaningful slice of my work at Abbey Road REDD was knowledge sharing across the music ecosystem. REDD was Europe's first dedicated music tech incubator and the innovation arm of Universal Music Group, the largest music label by market share, so the audience for this work spanned both directions: outward to the industry (founders, investors, technologists, artists) and inward to UMG leadership.
+A meaningful slice of my work at Abbey Road REDD was knowledge sharing across the music ecosystem. The audience for this work spanned both directions: outward to the industry (founders, investors, technologists, artists) and inward to UMG leadership.
 
 **Editorial pieces.**
 

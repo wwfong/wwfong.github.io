@@ -7,9 +7,7 @@ date: 2023-06-01
 excerpt: "Brought DAACI's meta-composition system to a metaverse use case via a partnership with Lockwood Publishing, introducing adaptive music that responds to in-game state."
 ---
 
-DAACI partnered with Lockwood Publishing to introduce adaptive music inside a live metaverse game environment. The work used DAACI's meta-composition engine to generate music that responds to gameplay context in real time, rather than relying on fixed loops or pre-rendered cues.
-
-I worked on the integration design and partnership scoping: defining how the meta-composition layer would receive game-state signals, what musical responses it would produce in turn, and how the engine would slot into the existing audio pipeline on the game side.
+DAACI partnered with Lockwood Publishing to introduce adaptive music inside a live metaverse game environment. The work used DAACI's meta-composition engine to generate music that responds to gameplay context in real time, rather than relying on fixed loops or pre-rendered cues. I worked on the integration design and partnership scoping: defining how the meta-composition layer would receive game-state signals, what musical responses it would produce in turn, and how the engine would slot into the existing audio pipeline on the game side. I also helped define the musical styles that we should focus on initially.
 
 Read the [Beyond Games coverage](https://www.beyondgames.biz/29359/bringing-ai-music-to-the-metaverse-as-lockwood-publishing-partners-with-daaci/).
 
